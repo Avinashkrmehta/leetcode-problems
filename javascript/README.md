@@ -5,7 +5,7 @@
 | No. | Questions |
 |---- | ---------
 |1  | [What are different data types in JavaScript](#what-are-different-data-types-in-javaScript) |
-|2  | [Is Javascript is single threaded](#is-javascript-is-single-threaded?) |
+|2  | [Is Javascript is single threaded](#is-javascript-is-single-threaded) |
 
 
 1. ### What are different data types in JavaScript
@@ -16,8 +16,8 @@
 
         ```javascript
         
-            let age = 25;
-            let price = 19.99;
+        let age = 25;
+        let price = 19.99;
         ```
     2. String: Represents a sequence of characters used to represent text.
 
