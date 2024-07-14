@@ -1,9 +1,11 @@
 # JavaScript Interview Questions & Answers
 
+### Table of Contents
+
 | No. | Questions |
 |---- | ---------
 |1  | [What are different data types in JavaScript](#what-are-different-data-types-in-javaScript) |
-|2  | [Is Javascript single-threaded?](#is-javascript-single-threaded?) |
+|2  | [Is Javascript is single threaded](#is-javascript-is-single-threaded?) |
 
 
 1. ### What are different data types in JavaScript
@@ -124,5 +126,7 @@
         console.log(Array.isArray([])); // true
         console.log(null === null);     // true
         ```
-2. ### Is Javascript single-threaded?
+
+         **[⬆ Back to Top](#table-of-contents)**
+2. ### Is Javascript is single threaded
     JavaScript is single-threaded, which means it executes code in a single sequence, one operation at a time, using a single call stack. However, it can handle asynchronous operations efficiently with the help of the event loop, callback queue, and Web APIs, which allow it to perform tasks like I/O, network requests, and timers without blocking the main execution thread. This design enables JavaScript to maintain responsiveness in web applications even when dealing with asynchronous tasks.
