@@ -130,3 +130,4 @@
          **[⬆ Back to Top](#table-of-contents)**
 2. ### Is Javascript is single threaded
     JavaScript is single-threaded, which means it executes code in a single sequence, one operation at a time, using a single call stack. However, it can handle asynchronous operations efficiently with the help of the event loop, callback queue, and Web APIs, which allow it to perform tasks like I/O, network requests, and timers without blocking the main execution thread. This design enables JavaScript to maintain responsiveness in web applications even when dealing with asynchronous tasks.
+        **[⬆ Back to Top](#table-of-contents)**
