@@ -1,0 +1,107 @@
+## STRING
+
+### Easy Problems
+- **Reverse String** - Reverse a string in-place.
+- **Valid Palindrome** - Check if a string is a palindrome.
+- **Longest Common Prefix** - Find the longest common prefix among strings.
+- **Valid Anagram** - Check if two strings are anagrams.
+- **First Unique Character in a String** - Find the first non-repeating character.
+- **Implement strStr()** - Find the index of the first occurrence of a substring.
+- **String to Integer (atoi)** - Convert a string to an integer.
+- **Reverse Words in a String** - Reverse the order of words in a string.
+- **Count and Say** - Generate the nth term of the "count and say" sequence.
+- **Length of Last Word** - Find the length of the last word in a string.
+- **Add Binary** - Add two binary strings.
+- **Valid Parentheses** - Check if a string of parentheses is valid.
+- **Roman to Integer** - Convert a Roman numeral to an integer.
+- **Integer to Roman** - Convert an integer to a Roman numeral.
+- **Palindrome Permutation** - Check if a string can form a palindrome.
+- **Ransom Note** - Check if a ransom note can be constructed from a magazine.
+- **Isomorphic Strings** - Check if two strings are isomorphic.
+- **Reverse Vowels of a String** - Reverse only the vowels in a string.
+- **Valid Palindrome II** - Check if a string can be a palindrome after deleting at most one character.
+- **Longest Palindrome** - Find the length of the longest palindrome that can be built from a string.
+
+### Medium Problems
+- **Longest Substring Without Repeating Characters** - Find the longest substring with unique characters.
+- **Longest Repeating Character Replacement** - Find the longest substring after replacing k characters.
+- **Minimum Window Substring** - Find the smallest substring containing all characters of another string.
+- **Group Anagrams** - Group anagrams together.
+- **Decode String** - Decode a string with nested encodings.
+- **Find All Anagrams in a String** - Find all starting indices of anagrams of a string.
+- **Permutation in String** - Check if a string contains a permutation of another string.
+- **Generate Parentheses** - Generate all valid combinations of n pairs of parentheses.
+- **Letter Combinations of a Phone Number** - Generate all combinations of letters from phone digits.
+- **Simplify Path** - Simplify a Unix-style file path.
+- **Basic Calculator II** - Evaluate a string expression with +, -, *, /.
+- **Word Break** - Check if a string can be segmented into dictionary words.
+- **Reverse Words in a String II** - Reverse words in a string in-place.
+- **ZigZag Conversion** - Convert a string into a zigzag pattern.
+- **Longest Palindromic Substring** - Find the longest palindromic substring.
+- **Palindromic Substrings** - Count the number of palindromic substrings.
+- **Reorganize String** - Reorganize a string so that no two adjacent characters are the same.
+- **Remove K Digits** - Remove k digits to form the smallest possible number.
+- **Restore IP Addresses** - Restore all valid IP addresses from a string.
+- **Multiply Strings** - Multiply two numbers represented as strings.
+- **Longest Valid Parentheses** - Find the length of the longest valid parentheses substring.
+- **Minimum Remove to Make Valid Parentheses** - Remove minimum parentheses to make the string valid.
+- **Find the Difference** - Find the extra character added to a string.
+- **Custom Sort String** - Sort a string based on a custom order.
+- **Repeated DNA Sequences** - Find all 10-letter-long repeated sequences in DNA.
+- **Compare Version Numbers** - Compare two version numbers.
+- **Fraction to Recurring Decimal** - Convert a fraction to a recurring decimal.
+- **Encode and Decode Strings** - Encode and decode a list of strings.
+- **String Compression** - Compress a string by replacing repeated characters with counts.
+- **Find All Duplicates in a String** - Find all duplicate characters in a string.
+
+### Hard Problems
+- **Regular Expression Matching** - Implement regular expression matching.
+- **Wildcard Matching** - Implement wildcard pattern matching.
+- **Edit Distance** - Find the minimum number of operations to convert one string to another.
+- **Minimum Window Subsequence** - Find the shortest subsequence containing a pattern.
+- **Distinct Subsequences** - Count the number of distinct subsequences of a string.
+- **Longest Happy Prefix** - Find the longest prefix which is also a suffix.
+- **Shortest Palindrome** - Find the shortest palindrome by adding characters.
+- **Palindrome Pairs** - Find all pairs of palindromic concatenations.
+- **Word Ladder II** - Find all shortest transformation sequences.
+- **Text Justification** - Justify text to fit a given width.
+- **Scramble String** - Check if a string is a scrambled version of another.
+- **Interleaving String** - Check if a string is formed by interleaving two other strings.
+- **Minimum Number of Operations to Make a String Sorted** - Find the minimum operations to sort a string.
+- **Longest Chunked Palindrome Decomposition** - Decompose a string into the maximum number of palindromic chunks.
+- **Count Unique Characters of All Substrings** - Count unique characters in all substrings.
+- **Maximum Number of Occurrences of a Substring** - Find the maximum occurrences of a substring.
+- **String Transforms Into Another String** - Check if one string can be transformed into another.
+- **Smallest Range Covering Elements from K Lists** - Find the smallest range covering elements from k lists.
+- **Concatenated Words** - Find all concatenated words in a list.
+- **Word Search II** - Search for multiple words in a 2D grid.
+- **Basic Calculator** - Evaluate a string expression with +, -, (, ).
+- **Remove Invalid Parentheses** - Remove the minimum number of invalid parentheses.
+- **Longest Substring with At Most K Distinct Characters** - Find the longest substring.
+- **Longest Substring with At Most Two Distinct Characters** - Variant of the above.
+- **Longest Substring with At Least K Repeating Characters** - Find the longest substring.
+- **Longest Absolute File Path** - Find the longest absolute file path.
+- **Valid Number** - Check if a string is a valid number.
+- **Integer to English Words** - Convert an integer to English words.
+- **Shortest Way to Form String** - Find the shortest way to form a string from subsequences.
+- **Count Binary Substrings** - Count the number of substrings with equal 0s and 1s.
+- **Minimum Swaps to Make Strings Equal** - Find the minimum swaps to make two strings equal.
+- **Maximum Length of a Concatenated String with Unique Characters** - Find the maximum length.
+- **Find Kth Bit in Nth Binary String** - Find the kth bit in a specific binary string.
+- **Maximum Number of Vowels in a Substring of Given Length** - Find the maximum vowels.
+- **Check If a String Can Break Another String** - Check if one string can break another.
+- **Minimum Deletions to Make Character Frequencies Unique** - Find the minimum deletions.
+- **Maximum Number of Non-Overlapping Substrings** - Find the maximum number of non-overlapping substrings.
+- **Minimum Time to Make Rope Colorful** - Find the minimum time to make a rope colorful.
+- **Minimum Changes To Make Alternating Binary String** - Find the minimum changes.
+- **Minimum Length of String After Deleting Similar Ends** - Find the minimum length.
+- **Maximum Repeating Substring** - Find the maximum repeating substring.
+- **Check If Two String Arrays are Equivalent** - Check if two string arrays are equivalent.
+- **Maximum Number of Balloons** - Find the maximum number of "balloon" substrings.
+- **Minimum Deletions to Make String Balanced** - Find the minimum deletions.
+- **Maximum Nesting Depth of the Parentheses** - Find the maximum nesting depth.
+- **Check If a Parentheses String Can Be Valid** - Check if a string can be valid.
+- **Minimum Add to Make Parentheses Valid** - Find the minimum additions.
+- **Remove All Adjacent Duplicates in String II** - Remove k adjacent duplicates.
+- **Minimum Number of Steps to Make Two Strings Anagram** - Find the minimum steps.
+- **Maximum Score From Removing Substrings** - Find the maximum score.
