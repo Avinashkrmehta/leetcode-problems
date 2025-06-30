@@ -2,8 +2,8 @@
 
 ## Easy Problems
 
-- **[Two Sum](./TwoSum/TwoSum.rb)** - Find two numbers that add up to a target.
-- **[Remove Duplicates from Sorted Array](./RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.rb)**- Remove duplicates in-place.
+- **[A-Two Sum](./A-TwoSum/TwoSum.rb)** - Find two numbers that add up to a target.
+- **[B-Remove Duplicates from Sorted Array](./B-RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.rb)**- Remove duplicates in-place.
 - **Best Time to Buy and Sell Stock** - Find the maximum profit.
 - **Maximum Subarray** - Find the contiguous subarray with the largest sum.
 - **Rotate Array** - Rotate the array to the right by k steps.
