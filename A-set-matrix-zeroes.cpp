@@ -34,7 +34,7 @@ void setMatrixZeroes(vector<vector<int>>& matrix) {
     // Second pass to set the marked rows and columns to zero
     for (int i = 0; i < n; i++) {
         for (int j = 0; j < m; j++) {
-            if (matrix[i][j] == -1) {
+            if (matrix[i][j] == INT_MIN) {
                 matrix[i][j] = 0; // Set marked cells to zero
             }
         }
