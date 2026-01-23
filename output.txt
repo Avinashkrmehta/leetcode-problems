@@ -1,5 +1,1 @@
-Original matrix:
-3 3
-1 -2147483648 1 
--2147483648 0 -2147483648 
-1 -2147483648 1 
+T h i s   i s   a   s a m p l e   t e s t   f i l e . 
